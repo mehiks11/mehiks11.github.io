@@ -15,10 +15,14 @@ author: Mehika V. Patel
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Universal Healthcare: "https://github.com/mehiks11/Universal_Healthcare_NLP"
+    - Flight Delay Predictor: "https://github.com/mehiks11/Flight_Delay_Predictor"
+    - Local Restaurant Sales: "https://github.com/mehiks11/Havenly"
+    - Billboard Music Hits: "https://github.com/mehiks11/MusicHits_Project"
+    - MTA Reduced Risk Travel : "https://github.com/mehiks11/MTA_Reduced_Risk_Travel"
+  Resume: 
+    - https://mehiks11.github.io/resume/
 
 # --- Logo --- #
 
