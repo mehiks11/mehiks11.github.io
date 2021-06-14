@@ -16,6 +16,7 @@ author: Mehika V. Patel
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Plant Identification with Neural Network: "https://github.com/mehiks11/Plant_ID"
     - Universal Healthcare Twitter NLP: "https://github.com/mehiks11/Universal_Healthcare_NLP"
     - Flight Delay Predictor: "https://github.com/mehiks11/Flight_Delay_Predictor"
     - Local Restaurant Sales: "https://github.com/mehiks11/Havenly"
@@ -65,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website holds my data science portfolio!
 
 # --- General options --- #
 
@@ -99,7 +100,7 @@ feed_show_tags: true
 navbar-col: "#6e7cff"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "##115C38"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
